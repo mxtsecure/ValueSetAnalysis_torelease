@@ -1,0 +1,22 @@
+{
+  "apk":"example/iflyos_assistant.apk",
+  "methods":
+    [
+      {
+        "method":"<java.net.URL: void <init>(java.lang.String)>",
+        "parmIndexs":[0]
+      }
+    ]
+}
+//<java.lang.ClassLoader: java.util.Enumeration getResources(java.lang.String)>
+//com.iflytek.vassistant[{"0":["META-INF/services/"]}]
+
+//<java.net.URI: java.net.URI create(java.lang.String)>
+//跑不出来
+
+//<java.net.URI: int compareTo(java.net.URI)>
+
+//<java.net.URL: void <init>(java.net.URL,java.lang.String)>
+//com.iflytek.vassistant[{},{}]
+
+//<java.net.URL: void <init>(java.lang.String)>

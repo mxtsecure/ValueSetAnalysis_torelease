@@ -1,0 +1,10 @@
+{
+  "apk":"example/com.xiaomi.pass.apk",
+  "methods":
+  [
+    {
+      "method":"<java.net.URL: void <init>(java.lang.String)>",
+      "parmIndexs":[0]
+    }
+  ]
+}

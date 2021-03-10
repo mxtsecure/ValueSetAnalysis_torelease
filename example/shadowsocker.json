@@ -1,0 +1,10 @@
+{
+  "apk":"example/in.zhaoj.shadowsocksr.apk",
+  "methods":
+  [
+    {
+      "method":"<java.net.URL: void <init>(java.lang.String)>",
+      "parmIndexs":[0]
+    }
+  ]
+}1
